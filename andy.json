@@ -1,6 +1,5 @@
 {
-    "name": "andy",
-
-    "model": "gpt-5.4-mini"
-
+    "name": "Pari",
+    "model": "groq/llama-3.3-70b-versatile",
+    "embedding": null
 }
